@@ -1,5 +1,5 @@
-IFRS account for SMEs - Current / Non current - Liquidity - Expenses by function
-================================================================================
+Cuentas NIIF para PYMESs - Corriente / No corriente - Liquidez - Gastos por su funcion
+======================================================================================
 
 1 Activo
     11 Activos Corrientes
