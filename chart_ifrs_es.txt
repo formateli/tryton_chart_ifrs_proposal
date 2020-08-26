@@ -1,0 +1,142 @@
+IFRS account for SMEs - Current / Non current - Liquidity - Expenses by function
+================================================================================
+
+1 Activo
+    11 Activos Corrientes
+        1110 Efectivo y Equivalente de Efectivo
+            111010 Caja y Bancos
+                11101010 Caja
+                    1110101010 Caja principal
+                11101020 Banco
+                    1110102010 Banco principal
+            111020 Equivalente de Efectivo
+                11102010 Depositos a corto plazo
+                11102020 Inversiones a costo plazo
+                11102030 Otros arreglos bancarios
+                11102090 Otros Equivalente de Efectivo
+        1120 Cuentas por Cobrar
+            112010 Cuentas por cobrar comerciales
+                11201010 Cuentas por Cobrar comerciales
+            112090 Otras cuentas por cobrar
+                11209090 Otras cuentas por cobrar
+        1130 Inventarios
+            113010 Materia Prima
+            113020 Mercancia
+            113030 Suminisros de Produccion
+            113040 Trabajo en Progreso
+            113050 Productos terminados
+            113090 Otros Inventarios
+        1190 Otros Activos Corrientes
+            119010 Gastos pagados por anticipado
+
+    12 Activos No Corrientes
+        1210 Propiedad, Planta y Equipo
+            121010 Terreno
+            121015 Edificios y Estructuras
+            121020 Construcciones en Progreso
+            121025 Maquinaria
+            121030 Vehiculos
+            121035 Equipos de Oficina
+            121040 Mobiliario y Enseres
+            121045 Ajustes al Valor Razonable Acumulado
+            121050 Depreciacion Acumulada
+                12105010 Depreciacion Acumulada Edificio
+                12105020 Depreciacion Acumulada Maquinaria
+                12105030 Depreciacion Acumulada Vehiculos
+                12105040 Depreciacion Acumulada Equiposde Oficina
+                12105050 Depreciacion Acumulada Mobiliario y Enseres
+            121090 Otros Propiedad, Planta y Equipo
+                12109090 Otros Propiedad, Planta y Equipo
+        1220 Activos Intangibles
+        1230 Impuestos Diferidos
+
+2 Pasivo
+    21 Pasivos Corrientes
+        2110 Cuentas por Pagar
+            211010 Cuentas por Pagar Comerciales
+                21101010 Cuentas por Pagar Comerciales
+            211090 Otras Cuentas por Pagar
+                21109090 Otras Cuentas por Pagar
+        2120 Cobrado por Anticipado
+            212010 Cobrado por Anticipado Comerciales
+            212090 Otros Cobrado por Anticipado
+        2130 Impuestos por Pagar
+            213010 Impuestos por Pagar
+        2140 Provisiones
+            214010 Beneficios de Empleados
+            214020 Garantias
+            214030 Reestructuraciones
+            214090 Otras Provisiones
+        2190 Otros Pasivos Corrientes
+            219010 Dividendos por Pagar
+            219090 Otros Pasivos Corrientes
+
+    22 Pasivos No Corrientes
+        2210 Pasivos a Largo Plazo
+            221010 Prestamos
+            221020 Bonos
+            221030 Pasivos por Arrendamiento
+            221090 Otros Pasivos a Largo Plazo
+        2290 Otros Pasivos No Corrientes
+            229090 Otros Pasivos No Corrientes
+
+3 Patrimonio
+    310 Capital
+        31010 Capital Social
+    320 Ganancias (Perdidas) Retenidas
+        32010 Ganancias (Perdidas) Retenidas
+        32020 Ganancias (Perdidas) Retenidas del Periodo Actual
+        32030 Ajustes Años Anteriores
+
+4 Ingresos por Operacion
+    410 Venta
+        41010 Venta
+    490 Otros Ingresos por Operacion
+        49010 Otros Ingresos por Operacion
+
+5 Costo de Venta
+    510 Servicios
+        51010 Servicios
+    520 Inventario
+        52010 Mercancia
+        52020 Materia Prima
+        52030 Productos Terminados
+        52090 Ajustes al Inventario
+
+6 Otros Ingresos
+    610 Ingresos Financcieros
+    620 Ingresos por Intereses
+    630 Dividendos
+    640 Regalias
+    650 Licencias
+    690 Otros Ingresos
+
+7 Gastos por Operacion
+    710 Gastos de Venta y Distribucion
+        71010 Gatos de Venta
+            7101010 Comisiones por Venta
+            7101020 Publicidad y Mercadeo
+            7101090 Otrsos Gatos de Venta
+        71020 Gatos de Distribucion
+            7102010 Gastos de Transporte
+            7102020 Gastos de Almacenamiento
+            7102090 Otros Gastos de Distribucion
+    720 Gastos de Administracion
+        72010 Gastos de Empleados
+        72020 Alquiler de Oficina
+        72030 Electricidad
+        72040 Telefonia
+        72090 Otros Gastos de Administracion
+    730 Depreciacion y Amortizacion
+        73010 Depreciacion
+        73020 Amortizacion
+
+8 Otros Gastos
+    810 Costos Financieros
+    820 Gastos por Intereses
+    830 Donaciones y Subsidios
+    840 Impuestos considerados como gastos
+    890 Otros Gastos
+
+9 Impuesto a los Ingreso (Gasto)
+    910 Impuesto a los Ingreso (Gasto)

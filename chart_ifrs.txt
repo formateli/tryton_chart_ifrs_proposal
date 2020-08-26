@@ -1,0 +1,142 @@
+IFRS account for SMEs - Current / Non current - Liquidity - Expenses by function
+================================================================================
+
+1 Assets
+    11 Current assets
+        1110 Cash and cash equivalents
+            111010 Cash and Bank
+                11101010 Cash
+                    1110101010 Main cash
+                11101020 Bank
+                    1110102010 Main bank
+            111020 Cash equivalent
+                11102010 Short-term deposits
+                11102020 Short-term investments
+                11102030 Other banking arrangements
+                11102090 Other Cash And Cash Equivalents
+        1120 Trade and orher Receivable
+            112010 Trade receivable
+                11201010 Main receivable
+            112090 Other Receivable
+                11209090 Other Receivable
+        1130 Inventories
+            113010 Raw material
+            113020 Merchandise
+            113030 Production supplies
+            113040 Work in progress
+            113050 Finished goods
+            113090 Other inventory
+        1190 Other current assets
+            119010 Pre-paid expenses
+
+    12 Non current assets
+        1210 Property, plant and equipment
+            121010 Land
+            121015 Buildings and structures
+            121020 Construction in progress
+            121025 Machinery
+            121030 Vehicles
+            121035 Office Equipment
+            121040 Furniture and fixtures
+            121045 Accumulated fair value adjustments
+            121050 Accumulated depreciation
+                12105010 Accumulated depreciation Building
+                12105020 Accumulated depreciation Machinary
+                12105030 Accumulated depreciation Vehicles
+                12105040 Accumulated depreciation Office Equipment
+                12105050 Accumulated depreciation Furniture and fixtures
+            121090 Other property, plant and equipment
+                12109090 Other property, plant and equipment
+        1220 Intangible assets
+        1230 Defered tax asset
+
+2 Liability
+    21 Current liabilities
+        2110 Trade and other Payables
+            211010 Trade Payables
+                21101010 Main Payable
+            211090 Other Payables
+                21109090 Other Payables
+        2120 Collected in Advance
+            212010 Trade Collected in Advance
+            212090 Other Collected in Advance
+        2130 Taxes
+            213010 Taxes
+        2140 Provisions
+            214010 Employee Benefits
+            214020 Warranties
+            214030 Restructuring
+            214090 Other provisions
+        2190 Other Current liabilities
+            219010 Dividend Payables
+            219090 Other Current liabilities
+
+    22 Non Current liabilities
+        2210 Long-Term Liabilities
+            221010 Loans
+            221020 Bonds
+            221030 Lease liabilities
+            221090 Other Long-Term Liabilities
+        2290 Other Non Current liabilities
+            229090 Other Non Current liabilities
+
+3 Equity
+    310 Capital
+        31010 Share Capital
+    320 Retained Profit (Loss)
+        32010 Retained Profit (Loss)
+        32020 Current Period Retained Profit (Loss)
+        32030 Past years adjustment
+
+4 Operating Incomes
+    410 Sale
+        41010 Sale
+    490 Other Operating Income
+        49090 Other Operating Income
+
+5 Cost of Sales
+    510 Services
+        51010 Services
+    520 Inventory
+        52010 Merchandise
+        52020 Raw material
+        52030 Finished goods
+        52090 Inventory adjustment
+
+6 Other incomes
+    610 Finance Income
+    620 Interest Income
+    630 Dividends
+    640 Royalties
+    650 Licensees
+    690 Other incomes
+
+7 Operating Expenses
+    710 Sale and Distribution Expenses
+        71010 Sale Expenses
+            7101010 Sale Comissions
+            7101020 Publicity and Marketing
+            7101090 Other Sale Expenses
+        71020 Distribution Expenses
+            7102010 Transportation Expenses
+            7102020 Storage Expenses
+            7102090 Other Distribution Expenses
+    720 Administration Expenses
+        72010 Employee Expenses
+        72020 Office rent
+        72030 Electricity
+        72040 Telephony
+        72090 Other Administration Expenses
+    730 Depreciation and Amortisation
+        73010 Depreciation
+        73020 Amortisation
+
+8 Other Expenses
+    810 Finance Costs
+    820 Interest Expense
+    830 Donations and Subsidies
+    840 Tax considered as expenses
+    890 Other expenses
+
+9 Tax Income (Expense)
+    910 Tax Income (Expense)
