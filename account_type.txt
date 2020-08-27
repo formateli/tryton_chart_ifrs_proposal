@@ -1,0 +1,41 @@
+Account type
+============
+
+Asset
+    Current Assets
+        [A1] Cash and Cash Equivalents
+        [A2] Trade and orher Receivable
+        [A3] Inventories
+        [A4] Other current assets
+    Non-current Assets
+        [A5] Property, plant and equipment
+        [A6] Intangible assets
+        [A7] Defered tax asset
+
+Liability
+    Current liabilities
+        [L1] Trade and other Payables
+        [L2] Collected in Advance
+        [L3] Taxes
+        [L4] Provisions
+        [L5] Other Current liabilities
+    Non-current liabilities
+        [L6] Long-Term Liabilities
+        [L7] Other Non-current liabilities
+
+Equity
+    [E1] Capital
+    [E2] Retained Profit (Loss)
+    Current Period Profit or Lost
+        Profit (loss) before tax
+            Gross Profit
+                [E3] Operating Income
+                [E4] Cost of Sales
+            [E5] Other Income
+            Operating Expenses
+                [E6] Sale and Distribution Expenses
+                [E7] Administration Expenses
+                [E8] Depreciation and Amortisation
+                [E9] Other Operating Expenses
+            [E1O] Other Expenses
+        [E11] Tax income (expense)

@@ -48,7 +48,9 @@ Cuentas NIIF para PYMESs - Corriente / No corriente - Liquidez - Gastos por su f
             121090 Otros Propiedad, Planta y Equipo
                 12109090 Otros Propiedad, Planta y Equipo
         1220 Activos Intangibles
+            122090 Other Activos Intangibles
         1230 Impuestos Diferidos
+            123090 Otros Impuestos Diferidos
 
 2 Pasivo
     21 Pasivos Corrientes
@@ -85,8 +87,7 @@ Cuentas NIIF para PYMESs - Corriente / No corriente - Liquidez - Gastos por su f
         31010 Capital Social
     320 Ganancias (Perdidas) Retenidas
         32010 Ganancias (Perdidas) Retenidas
-        32020 Ganancias (Perdidas) Retenidas del Periodo Actual
-        32030 Ajustes Años Anteriores
+        32020 Ajustes Años Anteriores
 
 4 Ingresos por Operacion
     410 Venta
@@ -130,6 +131,8 @@ Cuentas NIIF para PYMESs - Corriente / No corriente - Liquidez - Gastos por su f
     730 Depreciacion y Amortizacion
         73010 Depreciacion
         73020 Amortizacion
+    790 Otros Gastos por Operacion
+        79090 Otros Gastos por Operacion
 
 8 Otros Gastos
     810 Costos Financieros
