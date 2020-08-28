@@ -16,9 +16,9 @@ IFRS account for SMEs - Current / Non current - Liquidity - Expenses by function
                 11102090 Other Cash And Cash Equivalents [A1]
         1120 Trade and orher Receivable
             112010 Trade receivable
-                11201010 Main receivable [A2]
+                11201010 Main receivable [A2-rp]
             112090 Other Receivable
-                11209090 Other Receivable [A2]
+                11209090 Other Receivable [A2-rp]
         1130 Inventories
             113010 Raw material [A3]
             113020 Merchandise [A3]
@@ -56,9 +56,9 @@ IFRS account for SMEs - Current / Non current - Liquidity - Expenses by function
     21 Current liabilities
         2110 Trade and other Payables
             211010 Trade Payables
-                21101010 Main Payable [L1]
+                21101010 Main Payable [L1-rp]
             211090 Other Payables
-                21109090 Other Payables [L1]
+                21109090 Other Payables [L1-rp]
         2120 Collected in Advance
             212010 Trade Collected in Advance [L2]
             212090 Other Collected in Advance [L2]
@@ -143,3 +143,11 @@ IFRS account for SMEs - Current / Non current - Liquidity - Expenses by function
 
 9 Tax Income (Expense)
     910 Tax Income (Expense) [E11]
+
+
+Legend
+------
+
+XX- First before hyphen: Account type code
+r reconcile
+p party required

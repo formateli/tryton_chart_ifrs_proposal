@@ -1,0 +1,54 @@
+Typo de Cuenta
+==============
+
+[ba] Activo
+    [ba] Activo Corriente
+        [ba-A1] Efectivo y Equivalente de Efectivo
+        [bar-A2] Cuentas por Cobrar
+        [bas-A3] Inventarios
+        [ba-A4] Otros Activos Corrientes
+    [ba] Activos No Corrientes
+        [ba-A5] Propiedad, Planta y Equipo
+        [ba-A6] Activos Intangibles
+        [ba-A7] Impuesto Diferido
+
+[b] Pasivo
+    [b] Pasivo Corriente
+        [bp-L1] Cuentas por Pagar
+        [b-L2] Cobrado por Adelantado
+        [b-L3] Impuestos
+        [b-L4] Provisiones
+        [b-L5] Otros Pasivos Corrientes
+    [b] Pasivos No Corrientes
+        [bp-L6] Pasivos a Largo Plazo
+        [b-L7] Otros Pasivos No Corrientes
+
+[b] Patrimonio
+    [b] [E1] Capital
+    [b] [E2] Ganancias (Perdidas) Retenidas
+    [i] Ganacias o Perdidas del Periodo Actual
+        [i] Ganacia (Perdida) antes de Impuesto
+            [i] Ganancia Bruta
+                [ir-E3] Ingresos por Operacion
+                [ie-E4] Costo de Venta
+            [ir-E5] Otros Ingresos
+            [i] Gastos por Operacion
+                [ie-E6] Gastos de Venta y Distribucion
+                [ie-E7] Gastos de Administracion
+                [ie-E8] Depreciacion y Amortizacion
+                [ie-E9] Otros Gastos por Operacion
+            [ie-E1O] Otros Gastos
+        [ie-E11] Impuesto a los Ingresos (Gasto)
+
+
+Legend
+------
+
+b/i balance/ingreso
+a activo
+r por cobrar
+p por pagar
+s inventario
+r ingreso
+e gasto
+-XX Ultimos despues del guion: Codigo para asignar a la cuenta

@@ -6,140 +6,148 @@ Cuentas NIIF para PYMESs - Corriente / No corriente - Liquidez - Gastos por su f
         1110 Efectivo y Equivalente de Efectivo
             111010 Caja y Bancos
                 11101010 Caja
-                    1110101010 Caja principal
+                    1110101010 Caja principal [A1]
                 11101020 Banco
-                    1110102010 Banco principal
+                    1110102010 Banco principal [A1]
             111020 Equivalente de Efectivo
-                11102010 Depositos a corto plazo
-                11102020 Inversiones a costo plazo
-                11102030 Otros arreglos bancarios
-                11102090 Otros Equivalente de Efectivo
+                11102010 Depositos a corto plazo [A1]
+                11102020 Inversiones a costo plazo [A1]
+                11102030 Otros arreglos bancarios [A1]
+                11102090 Otros Equivalente de Efectivo [A1]
         1120 Cuentas por Cobrar
             112010 Cuentas por cobrar comerciales
-                11201010 Cuentas por Cobrar comerciales
+                11201010 Cuentas por Cobrar comerciales [A2-rp]
             112090 Otras cuentas por cobrar
-                11209090 Otras cuentas por cobrar
+                11209090 Otras cuentas por cobrar [A2-rp]
         1130 Inventarios
-            113010 Materia Prima
-            113020 Mercancia
-            113030 Suminisros de Produccion
-            113040 Trabajo en Progreso
-            113050 Productos terminados
-            113090 Otros Inventarios
+            113010 Materia Prima [A3]
+            113020 Mercancia [A3]
+            113030 Suminisros de Produccion [A3]
+            113040 Trabajo en Progreso [A3]
+            113050 Productos terminados [A3]
+            113090 Otros Inventarios [A3]
         1190 Otros Activos Corrientes
-            119010 Gastos pagados por anticipado
+            119010 Gastos pagados por anticipado [A4]
 
     12 Activos No Corrientes
         1210 Propiedad, Planta y Equipo
-            121010 Terreno
-            121015 Edificios y Estructuras
-            121020 Construcciones en Progreso
-            121025 Maquinaria
-            121030 Vehiculos
-            121035 Equipos de Oficina
-            121040 Mobiliario y Enseres
-            121045 Ajustes al Valor Razonable Acumulado
+            121010 Terreno [A5]
+            121015 Edificios y Estructuras [A5]
+            121020 Construcciones en Progreso [A5]
+            121025 Maquinaria [A5]
+            121030 Vehiculos [A5]
+            121035 Equipos de Oficina [A5]
+            121040 Mobiliario y Enseres [A5]
+            121045 Ajustes al Valor Razonable Acumulado [A5]
             121050 Depreciacion Acumulada
-                12105010 Depreciacion Acumulada Edificio
-                12105020 Depreciacion Acumulada Maquinaria
-                12105030 Depreciacion Acumulada Vehiculos
-                12105040 Depreciacion Acumulada Equiposde Oficina
-                12105050 Depreciacion Acumulada Mobiliario y Enseres
+                12105010 Depreciacion Acumulada Edificio [A5]
+                12105020 Depreciacion Acumulada Maquinaria [A5]
+                12105030 Depreciacion Acumulada Vehiculos [A5]
+                12105040 Depreciacion Acumulada Equipos de Oficina [A5]
+                12105050 Depreciacion Acumulada Mobiliario y Enseres [A5]
             121090 Otros Propiedad, Planta y Equipo
-                12109090 Otros Propiedad, Planta y Equipo
+                12109090 Otros Propiedad, Planta y Equipo [A5]
         1220 Activos Intangibles
-            122090 Other Activos Intangibles
+            122090 Other Activos Intangibles [A6]
         1230 Impuestos Diferidos
-            123090 Otros Impuestos Diferidos
+            123090 Otros Impuestos Diferidos [A7]
 
 2 Pasivo
     21 Pasivos Corrientes
         2110 Cuentas por Pagar
             211010 Cuentas por Pagar Comerciales
-                21101010 Cuentas por Pagar Comerciales
+                21101010 Cuentas por Pagar Comerciales [L1-rp]
             211090 Otras Cuentas por Pagar
-                21109090 Otras Cuentas por Pagar
+                21109090 Otras Cuentas por Pagar [L1-rp]
         2120 Cobrado por Anticipado
-            212010 Cobrado por Anticipado Comerciales
-            212090 Otros Cobrado por Anticipado
+            212010 Cobrado por Anticipado Comerciales [L2]
+            212090 Otros Cobrado por Anticipado [L2]
         2130 Impuestos por Pagar
-            213010 Impuestos por Pagar
+            213010 Impuestos por Pagar [L3]
         2140 Provisiones
-            214010 Beneficios de Empleados
-            214020 Garantias
-            214030 Reestructuraciones
-            214090 Otras Provisiones
+            214010 Beneficios de Empleados [L4]
+            214020 Garantias [L4]
+            214030 Reestructuraciones [L4]
+            214090 Otras Provisiones [L4]
         2190 Otros Pasivos Corrientes
-            219010 Dividendos por Pagar
-            219090 Otros Pasivos Corrientes
+            219010 Dividendos por Pagar [L5]
+            219090 Otros Pasivos Corrientes [L5]
 
     22 Pasivos No Corrientes
         2210 Pasivos a Largo Plazo
-            221010 Prestamos
-            221020 Bonos
-            221030 Pasivos por Arrendamiento
-            221090 Otros Pasivos a Largo Plazo
+            221010 Prestamos [L6]
+            221020 Bonos [L6]
+            221030 Pasivos por Arrendamiento [L6]
+            221090 Otros Pasivos a Largo Plazo [L6]
         2290 Otros Pasivos No Corrientes
-            229090 Otros Pasivos No Corrientes
+            229090 Otros Pasivos No Corrientes [L7]
 
 3 Patrimonio
     310 Capital
-        31010 Capital Social
+        31010 Capital Social [E1]
     320 Ganancias (Perdidas) Retenidas
-        32010 Ganancias (Perdidas) Retenidas
-        32020 Ajustes Años Anteriores
+        32010 Ganancias (Perdidas) Retenidas [E2]
+        32020 Ajustes Años Anteriores [E2]
 
 4 Ingresos por Operacion
     410 Venta
-        41010 Venta
+        41010 Venta [E3]
     490 Otros Ingresos por Operacion
-        49010 Otros Ingresos por Operacion
+        49010 Otros Ingresos por Operacion [E3]
 
 5 Costo de Venta
     510 Servicios
-        51010 Servicios
+        51010 Servicios [E4]
     520 Inventario
-        52010 Mercancia
-        52020 Materia Prima
-        52030 Productos Terminados
-        52090 Ajustes al Inventario
+        52010 Mercancia [E4]
+        52020 Materia Prima [E4]
+        52030 Productos Terminados [E4]
+        52090 Ajustes al Inventario [E4]
 
 6 Otros Ingresos
-    610 Ingresos Financcieros
-    620 Ingresos por Intereses
-    630 Dividendos
-    640 Regalias
-    650 Licencias
-    690 Otros Ingresos
+    610 Ingresos Financcieros [E5]
+    620 Ingresos por Intereses [E5]
+    630 Dividendos [E5]
+    640 Regalias [E5]
+    650 Licencias [E5]
+    690 Otros Ingresos [E5]
 
 7 Gastos por Operacion
     710 Gastos de Venta y Distribucion
         71010 Gatos de Venta
-            7101010 Comisiones por Venta
-            7101020 Publicidad y Mercadeo
-            7101090 Otrsos Gatos de Venta
+            7101010 Comisiones por Venta [E6]
+            7101020 Publicidad y Mercadeo [E6]
+            7101090 Otrsos Gatos de Venta [E6]
         71020 Gatos de Distribucion
-            7102010 Gastos de Transporte
-            7102020 Gastos de Almacenamiento
-            7102090 Otros Gastos de Distribucion
+            7102010 Gastos de Transporte [E6]
+            7102020 Gastos de Almacenamiento [E6]
+            7102090 Otros Gastos de Distribucion [E6]
     720 Gastos de Administracion
-        72010 Gastos de Empleados
-        72020 Alquiler de Oficina
-        72030 Electricidad
-        72040 Telefonia
-        72090 Otros Gastos de Administracion
+        72010 Gastos de Empleados [E7]
+        72020 Alquiler de Oficina [E7]
+        72030 Electricidad [E7]
+        72040 Telefonia [E7]
+        72090 Otros Gastos de Administracion [E7]
     730 Depreciacion y Amortizacion
-        73010 Depreciacion
-        73020 Amortizacion
+        73010 Depreciacion [E8]
+        73020 Amortizacion [E8]
     790 Otros Gastos por Operacion
-        79090 Otros Gastos por Operacion
+        79090 Otros Gastos por Operacion [E9]
 
 8 Otros Gastos
-    810 Costos Financieros
-    820 Gastos por Intereses
-    830 Donaciones y Subsidios
-    840 Impuestos considerados como gastos
-    890 Otros Gastos
+    810 Costos Financieros [E10]
+    820 Gastos por Intereses [E10]
+    830 Donaciones y Subsidios [E10]
+    840 Impuestos considerados como gastos [E10]
+    890 Otros Gastos [E10]
 
-9 Impuesto a los Ingreso (Gasto)
-    910 Impuesto a los Ingreso (Gasto)
+9 Impuesto a los Ingresos (Gasto)
+    910 Impuesto a los Ingresos (Gasto) [E11]
+
+
+Legend
+------
+
+XX- Primero antes del guion: Codigo del tipo de cuenta
+r reconciliar
+p tercero requerido
